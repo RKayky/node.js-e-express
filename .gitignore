@@ -25,3 +25,7 @@ npm-debug.log*
 /Praticando-Assincronia
 # VS Code Workspace file
 *.code-workspace
+
+# Aulas em desenvolvimento
+Aula05/
+Aula06/
